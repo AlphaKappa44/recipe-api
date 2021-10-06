@@ -2,8 +2,11 @@
 My own recipe's API
 
 # json will need:
-* Nom
-* Sous-titre
-* Ingredients
-* Ustensiles
-* Etapes de préparation
+* id
+* name
+* subtitle
+* comments
+* description
+* ingredients
+* cookingUtensils
+* steps

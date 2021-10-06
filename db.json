@@ -1,5 +1,5 @@
 {
-  "burgers": [
+  "recipes": [
     {
       "id": 0,
       "name": "Pesto de fanes de carottes",
@@ -24,7 +24,7 @@
       ],
       "steps": [
         {
-          "Step 1": Bla,
+          "Step 1": "Bla",
           "Step 2": "Blabla",
           "Step 3": "Blablabla",
           "Step 4": "Blablablabla",
@@ -56,7 +56,7 @@
         ],
         "steps": [
           {
-            "Step 1": Bla,
+            "Step 1": "Bla",
             "Step 2": "Blabla",
             "Step 3": "Blablabla",
             "Step 4": "Blablablabla",
