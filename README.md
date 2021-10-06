@@ -1,2 +1,2 @@
-# receipt-api
-My receipts API
+# recipe-api
+My own recipe's API
