@@ -10,3 +10,5 @@ My own recipe's API
 * ingredients
 * cookingUtensils
 * steps
+
+# json-server --watch db.json
